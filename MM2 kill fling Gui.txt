@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/FinalRuze/MM2_Kill_Fling_GUI/main/TIME%20TO%20KILL.lua'),true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FinalRuze/MM2_Kill_Fling_GUI/main/TIME%20TO%20KILL.lua"))()
